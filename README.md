@@ -12,3 +12,5 @@ Important steps for git workflow:
 ## Table of Contents ##
 
 - example_file.txt
+
+Swampert will always be better than any of the GEN 3 starters!
